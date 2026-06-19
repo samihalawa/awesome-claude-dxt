@@ -310,6 +310,7 @@
 - [abhiz123/todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server) - Interact with Todoist to manage your tasks.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - Interact with Atlassian Cloud products (Confluence and Jira) including searching/reading Confluence spaces/pages, accessing Jira issues, and project metadata.
 - [open-strategy-partners/osp_marketing_tools](https://github.com/open-strategy-partners/osp_marketing_tools) - Content editing codes, value map, and positioning tools for product marketing.
+- [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) - Google Tasks API Model Context Protocol Server.
 - [esignaturescom/mcp-server-esignatures](https://github.com/esignaturescom/mcp-server-esignatures) - MCP server for eSignatures (https://esignatures.com)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - File access and search capabilities for Google Drive
