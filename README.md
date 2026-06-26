@@ -352,6 +352,7 @@
 - [mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution.
 - [marctheshark3/ergo-mcp](https://github.com/marctheshark3/ergo-mcp) - -An MCP server to integrate Ergo Blockchain Node and Explorer APIs for checking address balances, analyzing transactions, viewing transaction history, performing forensic analysis of addresses, searching for tokens, and monitoring network status.
 - [XeroAPI/xero-mcp-server](https://github.com/XeroAPI/xero-mcp-server) - This is a Model Context Protocol (MCP) server implementation for Xero. It provides a bridge between the MCP protocol and Xero's API, allowing for standardized access to Xero's accounting and business features.
+- [axiosdevs/agentscoin-claude-extension](https://github.com/axiosdevs/agentscoin-claude-extension) - Give your AI agent its own money — create a wallet, get AGENT from the faucet, send, and create/trade tokens on a live EVM chain. One-click Claude Desktop extension (.mcpb).
 
 ### 📝 Examples
 
